@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "nodemon": "nodemon server.js"
   },
   "author": "Drew Atienza",
   "license": "ISC",
